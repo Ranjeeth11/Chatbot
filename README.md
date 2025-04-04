@@ -1,4 +1,4 @@
-# DigiDARA Chatbot 🤖
+# Chatbot 🤖
 
 A Flask-based chatbot for DigiDARA Technologies, designed to assist users by collecting information (name, email, phone, course interest, duration) and providing free chat and enquiry submission features. The chatbot leverages Ollama (phi4-mini model) for natural language responses and SQLite for data storage. It features an interactive frontend with checkboxes for course and duration selection, making it user-friendly and efficient.
 
